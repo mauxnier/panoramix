@@ -1,4 +1,4 @@
-# Panoramix, logiciel de gestion de panneaux publicitaires 🗺️
+# Panoramix, gestionnaire de panneaux publicitaires 🗺️
 Logiciel de gestion de panneaux publicitaires créé dans le cadre du projet de première année de DUT Informatique à l'IUT de Lannion.
 
 ![software preview](preview.png)
