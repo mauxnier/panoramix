@@ -14,14 +14,14 @@ Logiciel de gestion de panneaux publicitaires créé dans le cadre du projet de 
 Tout d'abord, vous aurez besoin de [Java (JRE)](https://www.java.com/fr/download/).
 
 Télécharger le fichier **[Panoramix.jar](https://github.com/paraceltus/panoramix/blob/master/Panoramix.jar)**.
-Ensuite, double-cliquez sur celui-ci. Si rien ne se passe, exécutez cette commande dans votre terminal favori (en faisant attention au chemin de la commande et à la variable d'environnemnt Java dans vos paramètres systèmes).
-```terminal
+Ensuite, double-cliquez sur celui-ci. Si rien ne se passe, exécutez cette commande dans votre console favorite (en faisant attention au chemin de la commande et à la variable d'environnemnt Java dans vos paramètres systèmes).
+```console
 java -jar Panoramix.jar
 ```
 
-Si malgré tout cela ça ne fonctionne pas, je vous invite à télécharger [Jarfix](https://johann.loefflmann.net/en/software/jarfix/index.html) qui comme son nom l'indique fix les jar.
+Si malgré tout cela ça ne fonctionne pas, je vous invite à télécharger [Jarfix](https://johann.loefflmann.net/en/software/jarfix/index.html) qui comme son nom l'indique fix les jar. Exécuter JarFix et retenter la manip.
 
-Exécuter JarFix et retenter la manip.
+Si vous n'arrivez toujours pas à exécuter le jar, Al-ḥamdu lillāh.
 
 ## Documentation 📚
 - [Tutorials on Youtube](https://www.youtube.com/)
