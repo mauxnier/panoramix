@@ -15,7 +15,7 @@ Tout d'abord, vous aurez besoin de [Java (JRE)](https://www.java.com/fr/download
 
 Télécharger le fichier **[Panoramix.jar](https://github.com/paraceltus/panoramix/blob/master/Panoramix.jar)**.
 Ensuite, double-cliquez sur celui-ci. Si rien ne se passe, exécutez cette commande dans votre console favorite (en faisant attention au chemin de la commande et à la variable d'environnemnt Java dans vos paramètres systèmes).
-```powershell
+```shell
 java -jar Panoramix.jar
 ```
 
