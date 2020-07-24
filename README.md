@@ -4,7 +4,7 @@ Logiciel de gestion de panneaux publicitaires créé dans le cadre du projet de 
 ![software preview](preview.png)
 
 ## Développeurs 👨‍💻
-- [Killian Monnier](https://github.com/paraceltus)
+- [Killian Monnier](https://github.com/killianmonnier)
 - [Kilian Le Borgne](https://github.com/kleborgn)
 - [Evan Scoarnec](https://github.com/EvanScoarnec)
 - [Mathis Lardeux](https://github.com/mathislardeux)
